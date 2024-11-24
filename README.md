@@ -10,3 +10,7 @@ This is a simple REST API built with Flask to manage a Product resource. It incl
    ```bash
    git clone https://github.com/your-repo/flask_rest_api.git
    cd flask_rest_api
+
+
+2. **use postman to make the requests**
+3. **used flask**
